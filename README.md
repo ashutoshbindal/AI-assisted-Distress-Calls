@@ -1,4 +1,4 @@
-#AI answering distress calls and assistive technologies for the human callers#
+<b>AI answering distress calls and assistive technologies for the human callers</b>
 
 ##Objective:
 Build state-of-the-art technology to predict or manage natural disasters better.
