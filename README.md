@@ -13,6 +13,6 @@ Emergency relief services are flooded with distress and help calls in the event 
 4. Also based on the incident occurring, if there is some advice that can be given to the caller like some precautions that must be taken, or to tell him to relocate and go to some other place where rescue operation is going on and other broadcasting type things, can be done by the chatbot.
 5. Also a transcript will be maintained for the bot which can be changed in real-time. This would be very similar to the shush-mode developed by Google recently.
 
-# References:
+## References:
 1. https://hub.packtpub.com/ai-rescue-5-ways-machine-learning-can-assist-emergency-situations/
 2. https://blog.ubisend.com/optimise-chatbots/simple-chatbot-flowchart
